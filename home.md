@@ -40,7 +40,7 @@ User is at least one of the following in relation to the Ship requested:
 
 ## Error Responses
 
-**Condition** : If Pet does not exist with `id` of provided `pk` parameter.
+**Condition** : If Pet does not exist with `id` of provided `pk` parameter. Devoloped by Jose Maria.
 
 **Code** : `404 NOT FOUND`
 
